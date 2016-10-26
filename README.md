@@ -1,5 +1,5 @@
 
-##Movie Trailers Website: Brian Reising
+##Movie Trailers Website: 
 
 This repository contains the Movie Trailers project files for Udacity FullStack Developers course. 
 
