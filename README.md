@@ -10,5 +10,5 @@ To run the program, from the python IDLE, open "entertainment_center.py" and sel
 
 ### Site functions:
 
-####The program will open a browser window and display a list of movie poster images and their titles. Click on a poster to watch the trailer for a particular movie.
+The program will open a browser window and display a list of movie poster images and their titles. Click on a poster to watch the trailer for a particular movie.
 
