@@ -6,16 +6,17 @@ toy_story = media.Movie("Toy Story",
     "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",\
     "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-avatar = media.Movie("Avatar", "A story of an avatar...",\
-    "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg,"\
+avatar = media.Movie("Avatar", 
+    "A story of an avatar...",\
+    "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",\
     "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
 
-shawshank = media.Movie("Shawshank Redemption,"\
+shawshank = media.Movie("Shawshank Redemption",\
     "The Shawshank Redemption is a 1994 American drama film written and"\
     "directed by Frank Darabont, and starring Tim Robbins and Morgan"\
-    "Freeman. Adapted"\
-    "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemption"\
-    "MoviePoster.jpg","https://www.youtube.com/watch?v=6hB3S9bIaco")
+    "Freeman. Adapted",\
+    "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "https://www.youtube.com/watch?v=6hB3S9bIaco")
 
 godather = media.Movie("The Godfather",\
     "The story spans the years from 1945 to 1955 and chronicles the "\
