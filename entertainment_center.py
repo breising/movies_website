@@ -26,7 +26,7 @@ godather = media.Movie("The Godfather",\
     " launching a campaign of bloody revenge","https://upload.wikimedia.org/"\
     "wikipedia/en/1/1c/Godfather_ver1.jpg",\
     "https://www.youtube.com/watch?v=sY1S34973zA")
-shindlerslist = media.Movie("Shindler's List",
+shindlerslist = media.Movie("Shindlers List",
     "Told from the perspective of businessman Oskar Schindler who saved over"\
     " a thousand Jewish lives from the Nazis while they worked as slaves in his"\
     " factory. Schindler’s List is based on a true story, illustrated in black"\
